@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Moisés",
+      "email": "moiseslcar@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Luciano",
+      "email": "mluciano@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Moisés Carvalho",
+      "email": "zekolino@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Moisés Car",
+      "email": "moises77@kjkj",
+      "id": 5
+    }
+  ]
+}
